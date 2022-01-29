@@ -48,7 +48,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
- ratings.csv
- config.py
- Movies_metadata.csv
+ratings.csv
+config.py
+Movies_metadata.csv
 .DS_store
